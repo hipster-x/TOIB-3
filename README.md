@@ -7,7 +7,7 @@
 1 На виртуальных машинах настроил сеть на Сетевой мост
 2 На первой виртуальной машине скачем rsyslog
 
-![Desktop Screenshot 2023 11 09 - 15 05 24 04](https://github.com/hipster-x/TOIB-3/assets/145153023/ac186911-0a88-4c00-be38-969a16ae98a3)
+ ![Desktop Screenshot 2023 11 09 - 15 05 24 04](https://github.com/hipster-x/TOIB-3/assets/145153023/ac186911-0a88-4c00-be38-969a16ae98a3)
 
 3 Запустим сервис. Проверим работоспособность 
 
