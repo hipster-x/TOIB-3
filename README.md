@@ -7,19 +7,20 @@
 1 На виртуальных машинах настроил сеть на Сетевой мост
 2 На первой виртуальной машине скачем rsyslog
 
-![Desktop Screenshot 2023 11 09 - 15 05 24 04](https://github.com/hipster-x/TOIB-3/assets/145153023/a5aca6d1-a4e3-4db4-8007-c8e7a9c2b39a)
+![Desktop Screenshot 2023 11 09 - 15 05 24 04](https://github.com/hipster-x/TOIB-3/assets/145153023/ac186911-0a88-4c00-be38-969a16ae98a3)
 
 3 Запустим сервис. Проверим работоспособность 
 
-![Desktop Screenshot 2023 11 09 - 15 06 24 90](https://github.com/hipster-x/TOIB-3/assets/145153023/6ea98279-42a1-43f2-9291-b08fecbb5c43)
+ ![Desktop Screenshot 2023 11 09 - 15 06 24 90](https://github.com/hipster-x/TOIB-3/assets/145153023/27dd620b-a172-44b6-a462-830cf5dcde9c)
 
 4 Настраиваем rsyslog для удаленного приема системного журнала
 
-![Desktop Screenshot 2023 11 09 - 15 37 31 43](https://github.com/hipster-x/TOIB-3/assets/145153023/91dbbbae-9c67-42a2-8941-b143cfe2bc67)
+![Desktop Screenshot 2023 11 09 - 15 37 31 43](https://github.com/hipster-x/TOIB-3/assets/145153023/5a8bf58e-73ea-4e7c-b953-18dbae96a5ec)
 
 5 Перезапускаем сервис
 
-![Desktop Screenshot 2023 11 09 - 16 02 57 25](https://github.com/hipster-x/TOIB-3/assets/145153023/85de9ddd-bd09-4f9f-9361-3ba91840f480)
+![Desktop Screenshot 2023 11 09 - 16 02 57 25](https://github.com/hipster-x/TOIB-3/assets/145153023/0f2932d7-5765-40dd-9aad-b18a749bc791)
+ter-x/TOIB-3/assets/145153023/85de9ddd-bd09-4f9f-9361-3ba91840f480)
 
 # Rsyslog. Клиент
 
