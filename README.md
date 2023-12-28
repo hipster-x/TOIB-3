@@ -19,8 +19,8 @@
 
 5 Перезапускаем сервис
 
-![Desktop Screenshot 2023 11 09 - 16 02 57 25](https://github.com/hipster-x/TOIB-3/assets/145153023/0f2932d7-5765-40dd-9aad-b18a749bc791)
-ter-x/TOIB-3/assets/145153023/85de9ddd-bd09-4f9f-9361-3ba91840f480)
+![Desktop Screenshot 2023 11 09 - 16 02 57 25](https://github.com/hipster-x/TOIB-3/assets/145153023/b71d91d6-9487-4113-aa2f-d7576e1af4fe)
+
 
 # Rsyslog. Клиент
 
